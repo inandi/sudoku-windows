@@ -1,0 +1,6 @@
+Private Sub chk11()
+    	If Label11.Caption <> "" Then
+        	x11 = Label11.Caption
+
+	end if
+end sub

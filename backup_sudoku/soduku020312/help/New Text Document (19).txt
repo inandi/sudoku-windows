@@ -1,0 +1,30 @@
+If Label61.Caption = x71 Then
+                Label71.BackColor = vbWhite
+                Label61.BackColor = vbWhite
+                CheckError = "1"
+            End If
+            If Label62.Caption = x71 Then
+                Label71.BackColor = vbWhite
+                Label62.BackColor = vbWhite
+                CheckError = "1"
+            End If
+            If Label63.Caption = x71 Then
+                Label71.BackColor = vbWhite
+                Label63.BackColor = vbWhite
+                CheckError = "1"
+            End If
+            If Label79.Caption = x71 Then
+                Label71.BackColor = vbWhite
+                Label79.BackColor = vbWhite
+                CheckError = "1"
+            End If
+            If Label80.Caption = x71 Then
+                Label71.BackColor = vbWhite
+                Label80.BackColor = vbWhite
+                CheckError = "1"
+            End If
+            If Label81.Caption = x71 Then
+                Label71.BackColor = vbWhite
+                Label81.BackColor = vbWhite
+                CheckError = "1"
+            End If

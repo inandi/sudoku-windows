@@ -1,0 +1,141 @@
+Private Sub cmdchk_Click()
+    abc = "0"
+    Call chk1
+    If abc = "1" Then        
+        Exit Sub
+    Else: Call NORMAL
+    End If
+    Call chk2
+    If abc = "1" Then        
+        Exit Sub
+    Else: Call NORMAL
+    End If
+    Call chk3
+    If abc = "1" Then        
+        Exit Sub
+    Else: Call NORMAL
+    End If
+    Call chk4
+    If abc = "1" Then        
+        Exit Sub
+    Else: Call NORMAL
+    End If
+    Call chk5
+    If abc = "1" Then        
+        Exit Sub
+    Else: Call NORMAL
+    End If
+    Call chk6
+    If abc = "1" Then        
+        Exit Sub
+    Else: Call NORMAL
+    End If
+    Call chk7
+    If abc = "1" Then        
+        Exit Sub
+    Else: Call NORMAL
+    End If
+    Call chk8
+    If abc = "1" Then        
+        Exit Sub
+    Else: Call NORMAL
+    End If
+    Call chk9
+    If abc = "1" Then        
+        Exit Sub
+    Else: Call NORMAL
+    End If                          ''''''''''''8th no box..^^^^^^^^
+    
+    
+    Call chk27
+    If abc = "1" Then        
+        Exit Sub
+    Else: Call NORMAL
+    End If
+    Call chk25
+    If abc = "1" Then        
+        Exit Sub
+    Else: Call NORMAL
+    End If
+    Call chk26
+    If abc = "1" Then        
+        Exit Sub
+    Else: Call NORMAL
+    End If
+    Call chk24
+    If abc = "1" Then        
+        Exit Sub
+    Else: Call NORMAL
+    End If
+    Call chk22
+    If abc = "1" Then        
+        Exit Sub
+    Else: Call NORMAL
+    End If
+    Call chk23
+    If abc = "1" Then        
+        Exit Sub
+    Else: Call NORMAL
+    End If
+    Call chk19
+    If abc = "1" Then        
+        Exit Sub
+    Else: Call NORMAL
+    End If
+    Call chk20
+    If abc = "1" Then        
+        Exit Sub
+    Else: Call NORMAL
+    End If
+    Call chk21
+    If abc = "1" Then        
+        Exit Sub
+    Else: Call NORMAL
+    End If                                           '''''''''''9th box..^^^^^^^^^^
+    
+    Call chk18                                  ''''''''''''''7th box downnnn
+    If abc = "1" Then        
+        Exit Sub
+    Else: Call NORMAL
+    End If
+    Call chk17
+    If abc = "1" Then        
+        Exit Sub
+    Else: Call NORMAL
+    End If
+    Call chk16
+    If abc = "1" Then        
+        Exit Sub
+    Else: Call NORMAL
+    End If
+    Call chk13
+    If abc = "1" Then        
+        Exit Sub
+    Else: Call NORMAL
+    End If
+    Call chk14
+    If abc = "1" Then        
+        Exit Sub
+    Else: Call NORMAL
+    End If
+    Call chk15
+    If abc = "1" Then        
+        Exit Sub
+    Else: Call NORMAL
+    End If
+    Call chk10
+    If abc = "1" Then        
+        Exit Sub
+    Else: Call NORMAL
+    End If
+    Call chk11
+    If abc = "1" Then        
+        Exit Sub
+    Else: Call NORMAL
+    End If
+    Call chk12
+    If abc = "1" Then        
+        Exit Sub
+    Else: Call NORMAL
+    End If
+End Sub

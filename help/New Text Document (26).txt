@@ -1,0 +1,19 @@
+If Labe45.Caption = "" Then
+                Labe45.Caption = Right(Rnd, 1)
+                For k = 1 To 22
+'                cmdchk_Click
+                    If CheckError = "1" Then
+                        If Labe45.Caption = 9 Then
+                            Labe45.Caption = 0
+                        End If
+                        Labe45.Caption = Labe45.Caption + 1
+                    Else
+                        Exit For
+                    End If
+                Next k
+            Else
+                If Labe45.Caption <> "" And Labe45.Caption <> "" And Labe45.Caption <> "" And Label40.Caption <> "" And Label41.Caption <> "" And Label42.Caption <> "" And Label43.Caption <> "" And Label44.Caption <> "" And Label45.Caption <> "" Then
+                    Exit Sub
+                End If
+                FourthBoxofGrid
+            End If

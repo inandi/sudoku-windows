@@ -1,0 +1,30 @@
+If Label39.Caption = X18 Then
+    Label18.BackColor = vbWhite
+    Label39.BackColor = vbWhite
+    abc = "1"
+End If
+If Label42.Caption = X18 Then
+    Label18.BackColor = vbWhite
+    Label42.BackColor = vbWhite
+    abc = "1"
+End If
+If Label45.Caption = X18 Then
+    Label18.BackColor = vbWhite
+    Label45.BackColor = vbWhite
+    abc = "1"
+End If
+If Label66.Caption = X18 Then
+    Label18.BackColor = vbWhite
+    Label66.BackColor = vbWhite
+    abc = "1"
+End If
+If Label69.Caption = X18 Then
+    Label18.BackColor = vbWhite
+    Label69.BackColor = vbWhite
+    abc = "1"
+End If
+If Label72.Caption = X18 Then
+    Label18.BackColor = vbWhite
+    Label72.BackColor = vbWhite
+    abc = "1"
+End If

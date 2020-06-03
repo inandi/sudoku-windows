@@ -1,0 +1,16 @@
+            If Label63.Caption = "" Then
+                Label63.Caption = Right(Rnd, 1)
+                For k = 1 To 9
+                cmdchk_Click
+                    If CheckError = "1" Then
+                        If Label63.Caption = 9 Then
+                            Label63.Caption = 0
+                        End If
+                        Label63.Caption = Label63.Caption + 1
+                    Else
+                        Exit For
+                    End If
+                Next k
+            Else
+                SecondBoxofGrid
+            End If

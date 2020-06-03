@@ -1,0 +1,18 @@
+        If i = 1 Then
+            If Text1.Text <> "" Then
+                rs.AddNew
+                rs!Gridname = txtgridname.Text
+                rs!Caption = "label2.caption=" & Text1.Text & ""
+                rs!Tag = "label2.tag= false"
+                rs!enable = "label2.enable= false"
+                rs.Update
+            Else
+                rs.AddNew
+                rs!Gridname = txtgridname.Text
+                rs!Caption = "label2.caption="""
+                rs!Tag = "label2.tag= true"
+                rs!enable = "label2.enable= true"
+                rs.Update
+            End If
+        End If
+        '#####################################

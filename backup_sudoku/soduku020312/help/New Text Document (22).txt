@@ -1,0 +1,243 @@
+    If Label1.Tag = "" Then
+        Label1.tag = true
+    End If
+    If Label2.Tag = "" Then
+        Label2.tag = true
+    End If
+    If Label3.Tag = "" Then
+        Label3.tag = true
+    End If
+    If Label4.Tag = "" Then
+        Label4.tag = true
+    End If
+    If Label5.Tag = "" Then
+        Label5.tag = true
+    End If
+    If Label6.Tag = "" Then
+        Label6.tag = true
+    End If
+    If Label7.Tag = "" Then
+        Label7.tag = true
+    End If
+    If Label8.Tag = "" Then
+        Label8.tag = true
+    End If
+    If Label9.Tag = "" Then
+        Label9.tag = true
+    End If
+    If Label10.Tag = "" Then
+        Label10.tag = true
+    End If
+    If Label11.Tag = "" Then
+        Label11.tag = true
+    End If
+    If Label12.Tag = "" Then
+        Label12.tag = true
+    End If
+    If Label13.Tag = "" Then
+        Label13.tag = true
+    End If
+    If Label14.Tag = "" Then
+        Label14.tag = true
+    End If
+    If Label15.Tag = "" Then
+        Label15.tag = true
+    End If
+    If Label16.Tag = "" Then
+        Label16.tag = true
+    End If
+    If Label17.Tag = "" Then
+        Label17.tag = true
+    End If
+    If Label18.Tag = "" Then
+        Label18.tag = true
+    End If
+    If Label19.Tag = "" Then
+        Label19.tag = true
+    End If
+    If Label20.Tag = "" Then
+        Label20.tag = true
+    End If
+    If Label21.Tag = "" Then
+        Label21.tag = true
+    End If
+    If Label22.Tag = "" Then
+        Label22.tag = true
+    End If
+    If Label23.Tag = "" Then
+        Label23.tag = true
+    End If
+    If Label24.Tag = "" Then
+        Label24.tag = true
+    End If
+    If Label25.Tag = "" Then
+        Label25.tag = true
+    End If
+    If Label26.Tag = "" Then
+        Label26.tag = true
+    End If
+    If Label27.Tag = "" Then
+        Label27.tag = true
+    End If
+    If Label28.Tag = "" Then
+        Label28.tag = true
+    End If
+    If Label29.Tag = "" Then
+        Label29.tag = true
+    End If
+    If Label30.Tag = "" Then
+        Label30.tag = true
+    End If
+    If Label31.Tag = "" Then
+        Label31.tag = true
+    End If
+    If Label32.Tag = "" Then
+        Label32.tag = true
+    End If
+    If Label33.Tag = "" Then
+        Label33.tag = true
+    End If
+    If Label34.Tag = "" Then
+        Label34.tag = true
+    End If
+    If Label35.Tag = "" Then
+        Label35.tag = true
+    End If
+    If Label36.Tag = "" Then
+        Label36.tag = true
+    End If
+    If Label37.Tag = "" Then
+        Label37.tag = true
+    End If
+    If Label38.Tag = "" Then
+        Label38.tag = true
+    End If
+    If Label39.Tag = "" Then
+        Label39.tag = true
+    End If
+    If Label40.Tag = "" Then
+        Label40.tag = true
+    End If
+    If Label41.Tag = "" Then
+        Label41.tag = true
+    End If
+    If Label42.Tag = "" Then
+        Label42.tag = true
+    End If
+    If Label43.Tag = "" Then
+        Label43.tag = true
+    End If
+    If Label44.Tag = "" Then
+        Label44.tag = true
+    End If
+    If Label45.Tag = "" Then
+        Label45.tag = true
+    End If
+    If Label46.Tag = "" Then
+        Label46.tag = true
+    End If
+    If Label47.Tag = "" Then
+        Label47.tag = true
+    End If
+    If Label48.Tag = "" Then
+        Label48.tag = true
+    End If
+    If Label49.Tag = "" Then
+        Label49.tag = true
+    End If
+    If Label50.Tag = "" Then
+        Label50.tag = true
+    End If
+    If Label51.Tag = "" Then
+        Label51.tag = true
+    End If
+    If Label52.Tag = "" Then
+        Label52.tag = true
+    End If
+    If Label53.Tag = "" Then
+        Label53.tag = true
+    End If
+    If Label54.Tag = "" Then
+        Label54.tag = true
+    End If
+    If Label55.Tag = "" Then
+        Label55.tag = true
+    End If
+    If Label56.Tag = "" Then
+        Label56.tag = true
+    End If
+    If Label57.Tag = "" Then
+        Label57.tag = true
+    End If
+    If Label58.Tag = "" Then
+        Label58.tag = true
+    End If
+    If Label59.Tag = "" Then
+        Label59.tag = true
+    End If
+    If Label60.Tag = "" Then
+        Label60.tag = true
+    End If
+    If Label61.Tag = "" Then
+        Label61.tag = true
+    End If
+    If Label62.Tag = "" Then
+        Label62.tag = true
+    End If
+    If Label63.Tag = "" Then
+        Label63.tag = true
+    End If
+    If Label64.Tag = "" Then
+        Label64.tag = true
+    End If
+    If Label65.Tag = "" Then
+        Label65.tag = true
+    End If
+    If CheckNumber = 66 Then
+        Label66.tag = true
+    End If
+    If Label67.Tag = "" Then
+        Label67.tag = true
+    End If
+    If Label68.Tag = "" Then
+        Label68.tag = true
+    End If
+    If Label69.Tag = "" Then
+        Label69.tag = true
+    End If
+    If Label70.Tag = "" Then
+        Label70.tag = true
+    End If
+    If Label71.Tag = "" Then
+        Label71.tag = true
+    End If
+    If Label72.Tag = "" Then
+        Label72.tag = true
+    End If
+    If Label73.Tag = "" Then
+        Label73.tag = true
+    End If
+    If Label74.Tag = "" Then
+        Label74.tag = true
+    End If
+    If Label75.Tag = "" Then
+        Label75.tag = true
+    End If
+    If Label76.Tag = "" Then
+        Label76.tag = true
+    End If
+    If Label77.Tag = "" Then
+        Label77.tag = true
+    End If
+    If Label78.Tag = "" Then
+        Label78.tag = true
+    End If
+    If Label79.Tag = "" Then
+        Label79.tag = true
+    End If
+    If Label80.Tag = "" Then
+        Label80.tag = true
+    End If
+    If Label81.Tag = "" Then
+        Label81.tag = true
+    End If

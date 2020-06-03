@@ -1,0 +1,246 @@
+Private Sub INPUTE_SPACE()
+    If INT2 = 1 Then
+        Label1.Caption = ""
+    End If
+    If INT2 = 2 Then
+        Label2.Caption = ""
+    End If
+    If INT2 = 3 Then
+        Label3.Caption = ""
+    End If
+    If INT2 = 4 Then
+        Label4.Caption = ""
+    End If
+    If INT2 = 5 Then
+        Label5.Caption = ""
+    End If
+    If INT2 = 6 Then
+        Label6.Caption = ""
+    End If
+    If INT2 = 7 Then
+        Label7.Caption = ""
+    End If
+    If INT2 = 8 Then
+        Label8.Caption = ""
+    End If
+    If INT2 = 9 Then
+        Label9.Caption = ""
+    End If
+    If INT2 = 10 Then
+        Label10.Caption = ""
+    End If
+    If INT2 = 11 Then
+        Label11.Caption = ""
+    End If
+    If INT2 = 12 Then
+        Label12.Caption = ""
+    End If
+    If INT2 = 13 Then
+        Label13.Caption = ""
+    End If
+    If INT2 = 14 Then
+        Label14.Caption = ""
+    End If
+    If INT2 = 15 Then
+        Label15.Caption = ""
+    End If
+    If INT2 = 16 Then
+        Label16.Caption = ""
+    End If
+    If INT2 = 17 Then
+        Label17.Caption = ""
+    End If
+    If INT2 = 18 Then
+        Label18.Caption = ""
+    End If
+    If INT2 = 19 Then
+        Label19.Caption = ""
+    End If
+    If INT2 = 20 Then
+        Label20.Caption = ""
+    End If
+    If INT2 = 21 Then
+        Label21.Caption = ""
+    End If
+    If INT2 = 22 Then
+        Label22.Caption = ""
+    End If
+    If INT2 = 23 Then
+        Label23.Caption = ""
+    End If
+    If INT2 = 24 Then
+        Label24.Caption = ""
+    End If
+    If INT2 = 25 Then
+        Label25.Caption = ""
+    End If
+    If INT2 = 26 Then
+        Label26.Caption = ""
+    End If
+    If INT2 = 27 Then
+        Label27.Caption = ""
+    End If
+    If INT2 = 28 Then
+        Label28.Caption = ""
+    End If
+    If INT2 = 29 Then
+        Label29.Caption = ""
+    End If
+    If INT2 = 30 Then
+        Label30.Caption = ""
+    End If
+    If INT2 = 31 Then
+        Label31.Caption = ""
+    End If
+    If INT2 = 32 Then
+        Label32.Caption = ""
+    End If
+    If INT2 = 33 Then
+        Label33.Caption = ""
+    End If
+    If INT2 = 34 Then
+        Label34.Caption = ""
+    End If
+    If INT2 = 35 Then
+        Label35.Caption = ""
+    End If
+    If INT2 = 36 Then
+        Label36.Caption = ""
+    End If
+    If INT2 = 37 Then
+        Label37.Caption = ""
+    End If
+    If INT2 = 38 Then
+        Label38.Caption = ""
+    End If
+    If INT2 = 39 Then
+        Label39.Caption = ""
+    End If
+    If INT2 = 40 Then
+        Label40.Caption = ""
+    End If
+    If INT2 = 41 Then
+        Label41.Caption = ""
+    End If
+    If INT2 = 42 Then
+        Label42.Caption = ""
+    End If
+    If INT2 = 43 Then
+        Label43.Caption = ""
+    End If
+    If INT2 = 44 Then
+        Label44.Caption = ""
+    End If
+    If INT2 = 45 Then
+        Label45.Caption = ""
+    End If
+    If INT2 = 46 Then
+        Label46.Caption = ""
+    End If
+    If INT2 = 47 Then
+        Label47.Caption = ""
+    End If
+    If INT2 = 48 Then
+        Label48.Caption = ""
+    End If
+    If INT2 = 49 Then
+        Label49.Caption = ""
+    End If
+    If INT2 = 50 Then
+        Label50.Caption = ""
+    End If
+    If INT2 = 51 Then
+        Label51.Caption = ""
+    End If
+    If INT2 = 52 Then
+        Label52.Caption = ""
+    End If
+    If INT2 = 53 Then
+        Label53.Caption = ""
+    End If
+    If INT2 = 54 Then
+        Label54.Caption = ""
+    End If
+    If INT2 = 55 Then
+        Label55.Caption = ""
+    End If
+    If INT2 = 56 Then
+        Label56.Caption = ""
+    End If
+    If INT2 = 57 Then
+        Label57.Caption = ""
+    End If
+    If INT2 = 58 Then
+        Label58.Caption = ""
+    End If
+    If INT2 = 59 Then
+        Label59.Caption = ""
+    End If
+    If INT2 = 60 Then
+        Label60.Caption = ""
+    End If
+    If INT2 = 61 Then
+        Label61.Caption = ""
+    End If
+    If INT2 = 62 Then
+        Label62.Caption = ""
+    End If
+    If INT2 = 63 Then
+        Label63.Caption = ""
+    End If
+    If INT2 = 64 Then
+        Label64.Caption = ""
+    End If
+    If INT2 = 65 Then
+        Label65.Caption = ""
+    End If
+    If INT2 = 66 Then
+        Label66.Caption = ""
+    End If
+    If INT2 = 67 Then
+        Label67.Caption = ""
+    End If
+    If INT2 = 68 Then
+        Label68.Caption = ""
+    End If
+    If INT2 = 69 Then
+        Label69.Caption = ""
+    End If
+    If INT2 = 70 Then
+        Label70.Caption = ""
+    End If
+    If INT2 = 71 Then
+        Label71.Caption = ""
+    End If
+    If INT2 = 72 Then
+        Label72.Caption = ""
+    End If
+    If INT2 = 73 Then
+        Label73.Caption = ""
+    End If
+    If INT2 = 74 Then
+        Label74.Caption = ""
+    End If
+    If INT2 = 75 Then
+        Label75.Caption = ""
+    End If
+    If INT2 = 76 Then
+        Label76.Caption = ""
+    End If
+    If INT2 = 77 Then
+        Label77.Caption = ""
+    End If
+    If INT2 = 78 Then
+        Label78.Caption = ""
+    End If
+    If INT2 = 79 Then
+        Label79.Caption = ""
+    End If
+    If INT2 = 80 Then
+        Label80.Caption = ""
+    End If
+    If INT2 = 81 Then
+        Label81.Caption = ""
+    End If
+End Sub
+

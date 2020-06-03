@@ -1,0 +1,104 @@
+If Label47.Caption <> "" Then
+        x47 = Label47.Caption
+        If Label48.Caption = x47 Then
+            Label47.BackColor = vbWhite
+            Label48.BackColor = vbWhite
+            abc = "1"
+        End If
+        If Label46.Caption = x47 Then
+            Label47.BackColor = vbWhite
+            Label46.BackColor = vbWhite
+            abc = "1"
+        End If
+        If Label50.Caption = x47 Then
+            Label47.BackColor = vbWhite
+            Label50.BackColor = vbWhite
+            abc = "1"
+        End If
+        If Label51.Caption = x47 Then
+            Label47.BackColor = vbWhite
+            Label51.BackColor = vbWhite
+            abc = "1"
+        End If
+        If Label49.Caption = x47 Then
+            Label47.BackColor = vbWhite
+            Label49.BackColor = vbWhite
+            abc = "1"
+        End If
+        If Label53.Caption = x47 Then
+            Label47.BackColor = vbWhite
+            Label53.BackColor = vbWhite
+            abc = "1"
+        End If
+        If Label54.Caption = x47 Then
+            Label47.BackColor = vbWhite
+            Label54.BackColor = vbWhite
+            abc = "1"
+        End If
+        If Label52.Caption = x47 Then
+            Label47.BackColor = vbWhite
+            Label52.BackColor = vbWhite
+            abc = "1"
+        End If
+        If Label28.Caption = x47 Then
+            Label47.BackColor = vbWhite
+            Label28.BackColor = vbWhite
+            abc = "1"
+        End If
+        
+        If Label29.Caption = x47 Then
+            Label47.BackColor = vbWhite
+            Label29.BackColor = vbWhite
+            abc = "1"
+        End If
+        If Label30.Caption = x47 Then
+            Label47.BackColor = vbWhite
+            Label30.BackColor = vbWhite
+            abc = "1"
+        End If
+        If Label37.Caption = x47 Then
+            Label47.BackColor = vbWhite
+            Label37.BackColor = vbWhite
+            abc = "1"
+        End If
+        If Label38.Caption = x47 Then
+            Label47.BackColor = vbWhite
+            Label38.BackColor = vbWhite
+            abc = "1"
+        End If
+        If Label39.Caption = x47 Then
+            Label47.BackColor = vbWhite
+            Label39.BackColor = vbWhite
+            abc = "1"
+        End If
+        If Label74.Caption = x47 Then
+            Label47.BackColor = vbWhite
+            Label74.BackColor = vbWhite
+            abc = "1"
+        End If
+        If Label77.Caption = x47 Then
+            Label47.BackColor = vbWhite
+            Label77.BackColor = vbWhite
+            abc = "1"
+        End If
+        If Label80.Caption = x47 Then
+            Label47.BackColor = vbWhite
+            Label80.BackColor = vbWhite
+            abc = "1"
+        End If
+        If Label20.Caption = x47 Then
+            Label47.BackColor = vbWhite
+            Label20.BackColor = vbWhite
+            abc = "1"
+        End If
+        If Label23.Caption = x47 Then
+            Label47.BackColor = vbWhite
+            Label23.BackColor = vbWhite
+            abc = "1"
+        End If
+        If Label26.Caption = x47 Then
+            Label47.BackColor = vbWhite
+            Label26.BackColor = vbWhite
+            abc = "1"
+        End If
+    End If
